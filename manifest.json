@@ -1,0 +1,9 @@
+{
+    "name": "My Chrome Extension",
+    "description": "A Chrome extension built with HTML and JavaScript.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html"
+    }
+}
